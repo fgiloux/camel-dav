@@ -1,4 +1,10 @@
 ## camel-dav
+
+This is a fork of https://github.com/Giwi/camel-dav.
+The aim of this fork is to get the component working with JBoss Fuse 6.2.1 for basic scenarios around file handling.
+
+By the original author:
+
 This is a Dav client based on [Sardine](https://code.google.com/p/sardine/) and largely inspired by camel-ftp.
 
 # Still experimental, but you can be audacious and have a try :)
